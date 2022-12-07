@@ -1,0 +1,49 @@
+{
+    "CaptAmerica": {
+        "name": "Captain America",
+        "id": "cap",
+        "lbBG": "mini-cooper.jpeg",
+        "biopic": "mini-cooper.png",
+        "bio": "replace with live text"
+    },
+    "CaptMarvel": {
+        "name": "Captain Marvel",
+        "id": "carol",
+        "lbBG": "car-10.jpg",
+        "biopic": "car-10.png",
+        "bio": "replace with live text",
+        "films": [1, 2, 3]
+    },
+    "Hawkeye": {
+        "name": "Hawkeye",
+        "id": "clint",
+        "lbBG": "car-.webp",
+        "biopic": "car-.webp",
+        "bio": "replace with live text",
+        "films": [1, 2, 4]
+    },
+    "Hulk": {
+        "name":"Hulk",
+        "id":"hulk",
+        "lbBG": "car-9.webp",
+        "biopic":"car-9.png",
+        "bio": "replace with live text",
+        "films": [1, 2, 3, 4, 5]
+    },
+    "Thor": {
+        "name":"Thor Odinson",
+        "id":"thor",
+        "lbBG": "car-6.webp",
+        "biopic":"car-6.png",
+        "bio": "replace with live text",
+        "films": [1, 2, 3]
+    },
+    "Widow": {
+        "name":"Black Widow",
+        "id":"widow",
+        "lbBG": "car-7.jpeg",
+        "biopic":"car-7.png",
+        "bio": "replace with live text",
+        "films": [1, 2, 3, 4, 5, 6]
+    }
+  }
